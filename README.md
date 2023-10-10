@@ -1,6 +1,7 @@
-# CH4 - tracé de vecteurs avec Python
+# CH4 - Cinématique
+# CH5 - Mouvement dans un champ de pesanteur uniforme
 
 pour lancer le notebook : cliquer sur le logo Basthon
 
-CH4 - Tracé de vecteurs vitesse et accélération
-[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-vecteurs/master/Vecteurs.ipynb)
+CH4 - Tracé de vecteurs vitesse et accélération + CH5 - révisions sur les énergies en mécanique
+[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-vecteurs/master/TP2.ipynb)
